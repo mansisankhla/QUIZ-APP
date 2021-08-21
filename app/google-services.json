@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288873840103",
+    "project_id": "quizera-1f02c",
+    "storage_bucket": "quizera-1f02c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288873840103:android:3a0b709dd3d126404bd142",
+        "android_client_info": {
+          "package_name": "com.example.quizera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288873840103-kq4o5jpggfa86uhjmq52ogkh8voo9glj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbm_-qnXPdnGiTGvRlchOjNe60LG-fohA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288873840103-kq4o5jpggfa86uhjmq52ogkh8voo9glj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
